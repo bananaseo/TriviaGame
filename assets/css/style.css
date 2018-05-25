@@ -1,0 +1,14 @@
+.quiz {
+    display:none; 
+}
+
+.display-4 {
+    text-align: center; 
+}
+
+#start {
+   display: block; 
+   margin-left: auto; 
+   margin-right: auto; 
+   width: 50%;  
+}
